@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://wakatime.com/share/@b344db97-8452-4c97-bc5e-ca059d8a2f83/3e6fc45d-7cef-4e4c-8895-19c526ebb4bf.svg" >
 <!--
 **mateamilloshi/mateamilloshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
